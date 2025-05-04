@@ -1,0 +1,9 @@
+[init]
+defaultBranch = main
+
+[user]
+name = Vngdv
+email = 13379212+Vngdv@users.noreply.github.com
+
+[push]
+autoSetupRemote = true
